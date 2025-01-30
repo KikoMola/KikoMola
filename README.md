@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kiko</h1>
-<h3 align="center">junior frontend developer @ Sopra Steria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikomola&label=Profile%20views&color=38b3ff&style=flat" alt="kikomola" /> </p>
 
